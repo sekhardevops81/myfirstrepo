@@ -1,0 +1,5 @@
+one.txt
+README.md
+total 2
+-rw-r--r-- 1 Gunasekhar Reddy 197121 18 Oct  7 12:03 one.txt
+-rw-r--r-- 1 Gunasekhar Reddy 197121 13 Oct  7 12:02 README.md
