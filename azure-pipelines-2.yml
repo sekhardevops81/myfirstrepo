@@ -13,5 +13,5 @@ steps:
 - script: 'Display command outputs'
   displayName: 'Run a one-line script'
 
-- script: |ls -la,pwd,lsblk
-      displayName: 'To display command output'
+- script: ls -la
+      
